@@ -3,9 +3,9 @@
 
 ## ✨ Projects
 
-| <a href="https://github.com/MADA-UMC"><img src="https://avatars.githubusercontent.com/u/138128940?s=200&v=4" width="150"/><br><b>MADA</b></a> | <a href="https://github.com/gusto-umc"><img src="https://avatars.githubusercontent.com/u/155049956?s=200&v=4" width="150"/><br><b>Gusto</b></a> | <a href="https://github.com/ClothesMe"><img src="https://avatars.githubusercontent.com/u/165641717?s=200&v=4" width="150"/><br><b>ClothesMe</b></a> | <a href="https://github.com/dae-young-hee"><img src="https://avatars.githubusercontent.com/u/246791154?s=200&v=4" width="150"/><br><b>SSABAP</b></a> | <a href="https://github.com/A106-14"><img src="https://avatars.githubusercontent.com/u/253618043?s=400&u=2f28b19848b4aa2cebd52494e96971f82a59f19a&v=4" width="150"/><br><b>Presento</b></a> | <a href="https://github.com"><img src="https://raw.githubusercontent.com/Jeonghee-Han/Jeonghee-Han/main/assets/ZIGUBON_150.gif" width="150"/><br><b>지구본</b></a> |
+| [![MADA](https://avatars.githubusercontent.com/u/138128940?s=200&v=4)](https://github.com/MADA-UMC) | [![Gusto](https://avatars.githubusercontent.com/u/155049956?s=200&v=4)](https://github.com/gusto-umc) | [![ClothesMe](https://avatars.githubusercontent.com/u/165641717?s=200&v=4)](https://github.com/ClothesMe) | [![SSABAP](https://avatars.githubusercontent.com/u/246791154?s=200&v=4)](https://github.com/dae-young-hee) | [![Presento](https://avatars.githubusercontent.com/u/253618043?s=400&v=4)](https://github.com/A106-14) | [![지구본](https://raw.githubusercontent.com/Jeonghee-Han/Jeonghee-Han/main/assets/ZIGUBON_200.gif)](https://github.com) |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| **일정 관리** | **맛집 아카이브** | **AI 의류 어시스턴트** | **SSAFY 식단 플랫폼** | **발표 Q&A 보조 로봇** | **AI 글로벌 뉴스** |
+| **MADA**<br>일정 관리 | **Gusto**<br>맛집 아카이브 | **ClothesMe**<br>AI 의류 어시스턴트 | **SSABAP**<br>SSAFY 식단 플랫폼 | **Presento**<br>발표 Q&A 보조 로봇 | **지구본**<br>AI 글로벌 뉴스 |
 
 <br>
 
