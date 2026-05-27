@@ -1,18 +1,18 @@
-![header](https://capsule-render.vercel.app/api?type=waving&hiehgt=1000&color=8FBC8F&text=WITHEE&fontColor=2F4F4F&fontSize=100&animation=fadeIn)
-
+<!--![header](https://capsule-render.vercel.app/api?type=waving&hiehgt=1000&color=8FBC8F&text=WITHEE&fontColor=2F4F4F&fontSize=100&animation=fadeIn)-->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=8FBC8F&text=WITHEE&fontColor=2F4F4F&fontSize=100&animation=fadeIn" width="100%"/>
 
 ## ✨ Projects
 
-| <a href="https://github.com/MADA-UMC"><img src="https://avatars.githubusercontent.com/u/138128940?s=200&v=4" width="150"/><br><b>MADA</b></a> | <a href="https://github.com/gusto-umc"><img src="https://avatars.githubusercontent.com/u/155049956?s=200&v=4" width="150"/><br><b>Gusto</b></a> | <a href="https://github.com/ClothesMe"><img src="https://avatars.githubusercontent.com/u/165641717?s=200&v=4" width="150"/><br><b>ClothesMe</b></a> | <a href="https://github.com/dae-young-hee"><img src="https://avatars.githubusercontent.com/u/246791154?s=200&v=4" width="150"/><br><b>SSABAP</b></a> | <a href="https://github.com/A106-14"><img src="https://avatars.githubusercontent.com/u/253618043?s=400&u=2f28b19848b4aa2cebd52494e96971f82a59f19a&v=4" width="150"/><br><b>Presento</b></a> |
-| :---: | :---: | :---: | :---: | :---: |
-| **일정 관리** | **맛집 아카이브** | **AI 의류 어시스턴트** | **SSAFY 식단 플랫폼** | **발표 Q&A 보조 로봇** |
+| <a href="https://github.com/MADA-UMC"><img src="https://avatars.githubusercontent.com/u/138128940?s=200&v=4" width="150"/><br><b>MADA</b></a> | <a href="https://github.com/gusto-umc"><img src="https://avatars.githubusercontent.com/u/155049956?s=200&v=4" width="150"/><br><b>Gusto</b></a> | <a href="https://github.com/ClothesMe"><img src="https://avatars.githubusercontent.com/u/165641717?s=200&v=4" width="150"/><br><b>ClothesMe</b></a> | <a href="https://github.com/dae-young-hee"><img src="https://avatars.githubusercontent.com/u/246791154?s=200&v=4" width="150"/><br><b>SSABAP</b></a> | <a href="https://github.com/A106-14"><img src="https://avatars.githubusercontent.com/u/253618043?s=400&u=2f28b19848b4aa2cebd52494e96971f82a59f19a&v=4" width="150"/><br><b>Presento</b></a> | <a href="https://github.com"><img src="https://github.com/user-attachments/assets/d246ed3a-5e89-4fb0-b75c-3c3f5f687465" width="150"/><br><b>지구본</b></a> |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| **일정 관리** | **맛집 아카이브** | **AI 의류 어시스턴트** | **SSAFY 식단 플랫폼** | **발표 Q&A 보조 로봇** | **AI 글로벌 뉴스** |
 
 <br>
 
 ## 🧭 Experience
 | 기간 | 활동 명칭 | 상세 내용 |
 | :--- | :--- | :--- |
-| 2025.07 - 현재 | **SSAFY 14기 (삼성청년SW아카데미)** | Java/Spring 기반 백엔드 트랙 및 다양한 AI 프로젝트 수행 |
+| 2025.07 - 2026.06 | **SSAFY 14기 (삼성청년SW·AI아카데미)** | Java/Spring 기반 백엔드 트랙 및 다양한 AI 프로젝트 수행 |
 | 2023.09 - 2024.02 | **UMC 5기 (University Make Us Challenge)** | 서버(Spring Boot) 파트 수료 및 스터디 우수자 선정 |
 | 2023.03 - 2023.08 | **UMC 4기 (University Make Us Challenge)** | 서버(Spring Boot) 파트 수료 및 프로젝트 배포 경험 |
 
@@ -22,6 +22,8 @@
 
 | 날짜 | 수상 및 장학 명칭 | 수여 기관 | 비고 |
 | :--- | :--- | :--- | :--- |
+| 2026.06 | **SSAFY 자율 프로젝트 00상** | 삼성청년SW·AI아카데미 | 6인 프로젝트 우수상  |
+| 2026.03 | **SSAFY 특화 프로젝트 우수상** | 삼성청년SW·AI아카데미 | 6인 프로젝트 우수상  |
 | 2026.02 | **SSAFY 공통 프로젝트 우수상** | 삼성청년SW·AI아카데미 | 6인 프로젝트 우수상  |
 | 2025.12 | **SSAFY 관통 프로젝트 최우수상** | 삼성청년SW·AI아카데미 | 2인 프로젝트 최우수상 |
 | 2025.10 | **SSAFY AI 챌린지 전국 4위** | 삼성청년SW·AI아카데미 | VQA 모델 개발 및 기술력 검증 |
@@ -40,8 +42,9 @@
 ## 📜 Certifications & Language
 | 구분 | 자격 및 어학 명칭 | 발급 기관 / 성적 | 취득일 |
 | :--- | :--- | :--- | :--- |
-| **Language** | **OPIc English** | **Intermediate High (IH)** | 2024.09.09 |
+| **Tech** | **정보처리기사** | 한국산업인력공단 | 2026.00.00 |
 | **Tech** | **SQL 개발자 (SQLD)** | 한국데이터산업진흥원 | 2023.12.18 |
+| **Language** | **OPIc English** | **Intermediate High (IH)** | 2024.09.09 |
 
 <!--
 **Jeonghee-Han/Jeonghee-Han** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -62,4 +65,5 @@ Here are some ideas to get you started:
 ![Jeonghee's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jeonghee-Han&show_icons=true&theme=transparent)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gkswjdgml001)](https://solved.ac/gkswjdgml001/)
 -->
-![footer](https://capsule-render.vercel.app/api?type=waving&height=200&color=8FBC8F&section=footer&reversal=true)
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=8FBC8F&section=footer&reversal=true" width="100%"/>
+<!--![footer](https://capsule-render.vercel.app/api?type=waving&height=200&color=8FBC8F&section=footer&reversal=true)-->
