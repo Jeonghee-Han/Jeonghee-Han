@@ -1,7 +1,7 @@
 <!--![header](https://capsule-render.vercel.app/api?type=waving&hiehgt=1000&color=8FBC8F&text=WITHEE&fontColor=2F4F4F&fontSize=100&animation=fadeIn)-->
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=8FBC8F&text=WITHEE&fontColor=2F4F4F&fontSize=100&animation=fadeIn" width="100%"/>
 
-## ✨ Projects
+## Projects
 
 | [![MADA](https://avatars.githubusercontent.com/u/138128940?s=200&v=4)](https://github.com/MADA-UMC) | [![Gusto](https://avatars.githubusercontent.com/u/155049956?s=200&v=4)](https://github.com/gusto-umc) | [![ClothesMe](https://avatars.githubusercontent.com/u/165641717?s=200&v=4)](https://github.com/ClothesMe) | [![SSABAP](https://avatars.githubusercontent.com/u/246791154?s=200&v=4)](https://github.com/dae-young-hee) | [![Presento](https://avatars.githubusercontent.com/u/253618043?s=400&v=4)](https://github.com/A106-14) | [![지구본](https://raw.githubusercontent.com/Jeonghee-Han/Jeonghee-Han/main/assets/ZIGUBON_250.gif)](https://github.com) |
 | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -9,7 +9,7 @@
 
 <br>
 
-## 🧭 Experience
+## Experience
 | 기간 | 활동 명칭 | 상세 내용 |
 | :--- | :--- | :--- |
 | 2025.07 - 2026.06 | **SSAFY 14기 (삼성청년SW·AI아카데미)** | Java/Spring 기반 백엔드 트랙 및 다양한 AI 프로젝트 수행 |
@@ -18,7 +18,7 @@
 
 <br>
 
-## 🏆 Honors & Awards
+## Honors & Awards
 
 | 날짜 | 수상 및 장학 명칭 | 수여 기관 | 비고 |
 | :--- | :--- | :--- | :--- |
@@ -39,7 +39,7 @@
 
 <br>
 
-## 📜 Certifications & Language
+## Certifications & Language
 | 구분 | 자격 및 어학 명칭 | 발급 기관 / 성적 | 취득일 |
 | :--- | :--- | :--- | :--- |
 | **Tech** | **정보처리기사** | 한국산업인력공단 | 2026.06.12 |
