@@ -3,7 +3,7 @@
 
 ## Projects
 
-| [![MADA](https://avatars.githubusercontent.com/u/138128940?s=200&v=4)](https://github.com/MADA-UMC) | [![Gusto](https://avatars.githubusercontent.com/u/155049956?s=200&v=4)](https://github.com/gusto-umc) | [![ClothesMe](https://avatars.githubusercontent.com/u/165641717?s=200&v=4)](https://github.com/ClothesMe) | [![SSABAP](https://avatars.githubusercontent.com/u/246791154?s=200&v=4)](https://github.com/dae-young-hee) | [![Presento](https://avatars.githubusercontent.com/u/253618043?s=400&v=4)](https://github.com/A106-14) | [![지구본](https://raw.githubusercontent.com/Jeonghee-Han/Jeonghee-Han/main/assets/ZIGUBON_250.gif)](https://github.com) |
+| [![MADA](https://avatars.githubusercontent.com/u/138128940?s=200&v=4)](https://github.com/MADA-UMC) | [![Gusto](https://avatars.githubusercontent.com/u/155049956?s=200&v=4)](https://github.com/gusto-umc) | [![ClothesMe](https://avatars.githubusercontent.com/u/165641717?s=200&v=4)](https://github.com/ClothesMe) | [![SSABAP](https://avatars.githubusercontent.com/u/246791154?s=200&v=4)](https://github.com/dae-young-hee) | [![Presento](https://avatars.githubusercontent.com/u/253618043?s=400&v=4)](https://github.com/A106-14) | [![지구본](https://raw.githubusercontent.com/Jeonghee-Han/Jeonghee-Han/main/assets/ZIGUBON_250.gif)](https://github.com/suspicious-people/zigubon) |
 | :---: | :---: | :---: | :---: | :---: | :---: |
 | **MADA**<br>일정 관리 | **Gusto**<br>맛집 아카이브 | **ClothesMe**<br>AI 의류 어시스턴트 | **SSABAP**<br>SSAFY 식단 플랫폼 | **Presento**<br>Q&A 보조 로봇 | **지구본**<br>AI 글로벌 뉴스 |
 
